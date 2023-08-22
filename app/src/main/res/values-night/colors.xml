@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nt_bg_edit_text">#404040</color>
+    <color name="nt_bg_loading">#80404040</color>
+    <color name="nt_icon_color">#FFFFFF</color>
+    <color name="nt_edit_text">#FFFFFF</color>
+</resources>

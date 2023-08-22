@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="signin_dialog_title">Hello!</string>
+    <string name="signin_dialog_subtitle">Enter a mobile number to verify your account</string>
+    <string name="signin_dialog_button">Check number</string>
+    <string name="signin_dialog_loading1">Sending code</string>
+    <string name="signin_dialog_title1">Write down the code</string>
+    <string name="signin_dialog_subtitle1">We sent a security code via SMS</string>
+    <string name="signin_dialog_button_code"><u>New code</u></string>
+    <string name="signin_dialog_loading2">Verifying code</string>
+    <string name="signin_dialog_error1">Invalid code</string>
+    <string name="signin_dialog_validation">Enter a valid number</string>
+    <string name="signin_dialog_success">Successful verification</string>
+    <string name="signin_dialog_sms">Your authentication code for Alba is:</string>
+    <string name="signin_dialog_terms_link">términos y condiciones</string>
+    <string name="signin_dialog_terms_prefix">He leído y acepto los</string>
+
+
+    <string name="facebook_app_id">232925656046008</string>
+    <string name="fb_login_protocol_scheme">fb232925656046008</string>
+    <string name="facebook_client_token">7d6778c6c54f3a9b32b435bcd8ca5cb3</string>
+
+
+</resources>
